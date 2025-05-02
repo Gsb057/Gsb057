@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gsb057
-- 👀 I’m interested in learning javascript
-- 🌱 I’m currently learning html and css
-- 📫 How to reach me : i know python so i can help
-                       you with that. sathyabharathi7711@gmail.com
+Hello 
+I only know little python
+I dont code from scratch
+Almost every project i do i rely on chat gpt
+
 
